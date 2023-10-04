@@ -237,3 +237,7 @@ footer {
 .btn:hover {
     background-color: rgb(92, 24, 24);
 }
+
+textarea{
+    resize: none;
+}
